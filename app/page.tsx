@@ -19,7 +19,7 @@ export default function Home() {
               className="flex max-w-fit items-center justify-center space-x-2 overflow-hidden rounded-full border border-gray-200 bg-white px-7 py-2 shadow-[inset_10px_-50px_94px_0_rgb(199,199,199,0.1)] backdrop-blur transition-all hover:border-gray-300 hover:bg-white/50"
             >
               <p className="text-sm font-semibold text-gray-700">
-                🎉 S3 For Rest Of Us.
+                🎉 Zero Egress Charges
               </p>
               <Terminal className="h-4 w-4" />
             </Link>
